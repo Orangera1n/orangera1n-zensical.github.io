@@ -1,10 +1,5 @@
 | Machine nickname  (and usually, hostname) | Model  (MLB name)       | Machine purpose    | CPU                   | GPU                       | RAM               | Storage | OS               | Acquisition                                                                   | Notes/Comments                                          |
 |-------------------------------------------|-------------------------|--------------------|-----------------------|---------------------------|-------------------|---------|------------------|-------------------------------------------------------------------------------|---------------------------------------------------------|
 | Miku| Custom PC (ASUS Z390-A) | Main PC for Gaming | Core i7-9700K @4.8ghz | EVGA Black RTX 2070 Super | 32GB DDR4-3200mhz |         | Debian 13 w LXDE | DIY (parts from both gifts and my own money in 2020, upgraded it a few times) | First long-lasting machine I used.  Miku themed now :3  |
-|RaidenEi|Poweredge R730    |Main Server|2x Xeon E5-2690v4 @ 2.6-3.5 GHZ    |Matrox Electronics Systems Ltd. G200eR2    |96GB
-DDR4-2133MHZ ECC|4x 8TB HDD's (3x Helium, 1 Skyhawk AI) for NAS
-3X 12TB HDD's for NAS
-1x 1TB SSD for important VMs and host install
-1x 512MB Flash Drive for UEFI to boot off of NVME|Proxmox 8.2.7    |eBay buy from an eWaste place in August 2024    |First non-shitty server
-|
+|RaidenEi|Poweredge R730    |Main Server|2x Xeon E5-2690v4 @ 2.6-3.5 GHZ    |Matrox Electronics Systems Ltd. G200eR2    |96GB DDR4-2133MHZ ECC |4x 8TB HDD's (3x Helium, 1 Skyhawk AI) for NAS and 3X 12TB HDD's for NAS, 1x 1TB SSD for important VMs and host install, 1x 512MB Flash Drive for UEFI to boot off of NVME|Proxmox 8.2.7    |eBay buy from an eWaste place in August 2024    |First non-shitty server |
 |                                           |                         |                    |                       |                           |                   |         |                  |                                                                               |                                                         |
