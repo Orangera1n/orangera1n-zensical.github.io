@@ -1,0 +1,2 @@
+|Machine nickname (and usually, hostname) | Model (MLB name) | Machine purpose | CPU | GPU | RAM | Storage | OS| Aquistion| Notes/Comments|
+| Miku| Custom PC, ASUS Z390-A | Main PC| Core i7-9700K @4.8ghz | EVGA Black RTX 2070 Super | 32GB DDR4-3200mhz | Debian 13 w LXDE | DIY (parts from both gifts and my own money in 2020, upgrades a few times) | First long-lasting machine I used. Miku themed now :3 |
