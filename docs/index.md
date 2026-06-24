@@ -1,3 +1,6 @@
+---
+title: Landing
+---
 Welcome to this site!
 
 I am Scarlett Asahi, also known as orangera1n.
@@ -30,3 +33,6 @@ I am Scarlett Asahi, also known as orangera1n.
 - Mastodon (@orangera1n@procursus.social)
 - BlueSky (orangera.in)
 - Github (https://github.com/orangera1n)
+
+
+<a href="http://pico.church"><img border="0" src="https://pico.church/static/picochurchbutton.gif"></a>
