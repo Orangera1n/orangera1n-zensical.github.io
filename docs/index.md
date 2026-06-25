@@ -11,7 +11,7 @@ I am Scarlett Asahi, also known as orangera1n.
 - Server management (again, AeroHeaven, which is in my homelab)
 - Tinkering with devices (i.e. dualboots)
 - Datamining (the non-bad kind) things, primarily Apple and Microsoft
-- Researching mechanisms in devices
+- Researching mechanisms and internals in devices
 - Collecting devices, including rare prototype ones
 
 ### I also do various other things, such as:
